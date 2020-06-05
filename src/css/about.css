@@ -1,0 +1,30 @@
+.about {
+  font-family: "Nunito Sans";
+  color: #171717;
+}
+
+.about__header {
+  font-family: "Montserrat";
+
+  font-size: 36px;
+  font-weight: 400;
+}
+
+.about__text {
+  font-size: 15px;
+}
+
+.about__btn {
+  padding: 12px 20px;
+  background-color: #729749;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: "Montserrat";
+  transition: all 0.2s ease-in-out;
+}
+
+.about__btn:hover {
+  color: #fff;
+  background-color: #614775;
+}

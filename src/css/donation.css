@@ -1,0 +1,23 @@
+.donation__line {
+  background-color: #614775;
+  height: 210px;
+  color: #fff;
+  font-family: "Montserrat";
+}
+
+.donation__line-btn {
+  text-decoration: none;
+  padding: 12px 20px;
+  background-color: #729749;
+  color: #fff;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: "Montserrat";
+  transition: all 0.2s ease-in-out;
+}
+
+.donation__line-btn:hover {
+  color: #fff;
+  background-color: #d1c134;
+  text-decoration: none;
+}

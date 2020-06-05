@@ -1,0 +1,10 @@
+.motivation {
+  background-color: #614775;
+  min-height: 210px;
+  color: #fff;
+  font-family: "Montserrat";
+}
+
+.motivation__margin {
+  margin-top: -100px;
+}
