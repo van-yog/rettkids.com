@@ -6,3 +6,9 @@
 .footer__privacy {
   color: #614775;
 }
+
+@media screen and (max-width: 574px) {
+  .footer {
+    text-align: center;
+  }
+}
